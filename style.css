@@ -1,0 +1,28 @@
+.clsSpan,.clsDiv
+{
+    margin: 50px;
+    padding: 10px;
+    color: white;
+    background-color: darkblue;
+    opacity: 80%;
+    text-align: center;
+    border-radius: 10px;
+    border-width: thick;
+    z-index: 1;
+    font-family: monospace;
+}
+
+#idSTBL
+{
+    font-weight: bold;
+    font-style: oblique;
+    justify-content: flex-end;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+h1
+{
+    font-family: fantasy;
+    font-size: 50px;
+}
